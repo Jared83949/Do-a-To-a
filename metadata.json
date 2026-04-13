@@ -1,5 +1,5 @@
 {
-  "name": "Asado Toña Grill",
-  "description": "Página oficial de Asado Toña Grill, anteriormente Fritanga Doña Tona. El mejor sabor de asados tradicionales.",
-  "requestFramePermissions": []
+  "name": "Doña Tola Grill",
+  "description": "Página oficial de Doña Tola Grill. El mejor sabor de asados tradicionales con sistema de pedidos y chat en vivo.",
+  "requestFramePermissions": ["geolocation"]
 }
